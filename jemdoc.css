@@ -39,8 +39,6 @@ body {
 	background: white;
 	text-align: left;
 	vertical-align: top;
-	min-width: 800px;
-	width: 800px;
 }
 
 #layout-menu a {
@@ -58,7 +56,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #1F407A;
+	color: #224b8d;
 	text-decoration: none;
 }
 
@@ -67,11 +65,11 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #1F407A;
+	color: #022b6d;
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #1269B0;
+	color: #527bbd;
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -119,7 +117,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #1269B0;
+	color: #527bbd;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -283,10 +281,10 @@ span.statement {
 	color: #008800;
 }
 span.builtin {
-	color: #007A96;
+	color: #000088;
 }
 span.special {
-	color: #A8322D;
+	color: #990000;
 }
 span.operator {
 	color: #880000;

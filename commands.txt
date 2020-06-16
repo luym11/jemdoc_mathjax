@@ -1,0 +1,3 @@
+ jemdoc -c mysite.conf *.jemdoc
+
+https://ethz.ch/services/en/it-services/catalogue/web-application-hosting/personal-website.html

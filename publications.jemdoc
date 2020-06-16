@@ -1,0 +1,8 @@
+# jemdoc: menu{MENU}{publications.html}
+= Conference proceedings
+
+. Safe mission planning under dynamical uncertainties [https://arxiv.org/abs/2003.02913/ /preprint/ ] [https://www.dropbox.com/s/4f1jqbmpypaj72z/icra202020.mp4?dl=0/ /video/]\n /ICRA 2020/\n *Yimeng Lu*, and Maryam Kamgarpour \n
+\n
+. Distributed real time control of multiple UAVs in adversarial environment [https://ieeexplore.ieee.org/abstract/document/8460866/ link]\n /ICRA 2018/\n Mohamed Abdelkader, *Yimeng Lu*, Hassan Jaleel, and Jeff Shamma\n
+= Journal articles
+. Perception, navigation, and manipulation in the team KAUST approach to the MBZIRC ground robotics challenge [https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21865/ link]\n /Journal of Field Robotics, 2018/\n Samet Güler, Mohammed A. Algarni, Mohammad Z. Shaqura, Hassan Jaleel, Mohamed A. Mabrok, Jiming Jiang, *Yimeng Lu*, and Jeff S. Shamma \n

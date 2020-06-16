@@ -1,0 +1,19 @@
+# jemdoc: menu{MENU}{index.html}
+= Yimeng Lu
+Ph.D. Candidate\n\n
+[https://control.ee.ethz.ch/ Automatic Control Laboratory]\n
+[https://ee.ethz.ch/ Department of Information Technology and Electrical Engineering (D-ITET)]\n
+[https://ethz.ch/en.html/  ETH Zürich]\n\n
+
+Address:\n
+ETL K.12, Physikstrasse 3\n
+8092 Zürich, Switzerland\n\n
+
+Phone: +41 44 632 4923\n
+Email: luyi AT ethz DOT ch\n 
+
+= Brief Bio
+Yimeng Lu is a Ph.D. student in the Automatic Control Laboratory at ETH, Zürich, advised by [http://people.ee.ethz.ch/~maryamk/ Prof.Maryam Kamgarpour], since July 2018. He received his Bachelor degree in Mechanical Engineering from Tsinghua University and his Master degree in Electrical Engineering from King Abdullah University of Science and Technology (KAUST), in 2016 and 2018. He has also conducted research related to robotics asa student researcher at the University of Tokyo and Technical University of Munich (TUM).
+
+= Research Interests
+Yimeng Lu focuses on efficient solutions to intelligent systems with performance guarantees. His previousworks include distributed cooperative environmental monitoring and distributed object pursuing algorithm,together with marine and aerial robot implementations. He currently focuses on real-time decision makingand planning for single and multiple robot(s) under dynamical uncertainties. 
